@@ -1,6 +1,8 @@
-# Data analysis and data science study and pet projects
+# Data science study and pet projects
+Учебные проекты в сфере науки о данных
 
-📊 Here established my some of my finished data analysis and data science study and pet projects.
+📊 Here established my some of my finished and data science study and pet projects.
+Здесь я разместил некоторые из моих законченных исследований и проектов, а также пет проекты.
 
 💡 Machine learning projects are still to be updated.
 
