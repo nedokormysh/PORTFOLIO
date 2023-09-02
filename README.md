@@ -7,4 +7,4 @@
 
 | Project name             | Description                     | Keywords                      |Stack                   |
 | :------------------------|:--------------------------------|:------------------------------|:------------------|
-| [Исследование блендинга и стекинга для прогноза дней поломки автомобиля](https://github.com/nedokormysh/PORTFOLIO/blob/main/CDS_solution_12_2_1.ipynb) | Анализ и прогнозирование через сколько дней произойдёт поломка автомобиля каршеринговой фирмы. Необходимо побить порог ниже 11.85. При | `EDA`, `blending`, `stacking` | `python`, `pandas`, `numpy`, `matplotlib`, 'catboost', 'optuna'|
+| [Исследование блендинга и стекинга для прогноза дней поломки автомобиля](https://github.com/nedokormysh/PORTFOLIO/blob/main/CDS_solution_12_2_1.ipynb) | Анализ и прогнозирование через сколько дней произойдёт поломка автомобиля каршеринговой фирмы. Необходимо побить порог ниже 11.85. При | `EDA`, `blending`, `stacking` | `python`, `pandas`, `numpy`, `matplotlib`,  `catboost`,  `optuna`,  `XGBoost`|
