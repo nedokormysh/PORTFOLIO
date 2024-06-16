@@ -10,6 +10,7 @@
 Проекты обновляются.
 
 
-| Project name             | Description                     | Keywords                      |Stack                   | Platform    |
-| :------------------------|:--------------------------------|:------------------------------|:------------------| :------------------|
-| [Исследование блендинга, стекинга и ансаблирования моделей](https://github.com/nedokormysh/PORTFOLIO/blob/main/CDS_solution_12_2_1.ipynb) | Анализ и прогнозирование через сколько дней произойдёт поломка автомобиля каршеринговой фирмы. Необходимо побить порог ниже 11.85. | `EDA`, `blending`, `stacking` | `python`, `pandas`, `numpy`, `matplotlib`,  `catboost`,  `optuna`,  `XGBoost`| `Stepik`
+| Project name             | Description                     | Keywords                      |Stack                   | Platform    | Year |
+| :------------------------|:--------------------------------|:------------------------------|:------------------| :------------------|:------------------|
+| [Исследование блендинга, стекинга и ансаблирования моделей](https://github.com/nedokormysh/PORTFOLIO/blob/main/CDS_solution_12_2_1.ipynb) | Анализ и прогнозирование через сколько дней произойдёт поломка автомобиля каршеринговой фирмы. Необходимо побить порог ниже 11.85. | `EDA`, `blending`, `stacking` | `python`, `pandas`, `numpy`, `matplotlib`,  `catboost`,  `optuna`,  `XGBoost`| `Stepik`| 2023|
+|[Задача тэгирования новостных данных](https://github.com/nedokormysh/NLP_Fontanka/tree/main)| Пет-проект по классификации новостных статей сайта fontanka.ru| `parsing`, `scraping`, `EDA`, `tuning`,  `stacking`|  `python`, `pandas`, `numpy`, `matplotlib`,  `catboost`,  `optuna` | `PyMagic`|2024
